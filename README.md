@@ -1,8 +1,21 @@
-# Codewars Cagematch using SQL
+# SQL Codewars Challenges
+
+## About Codewars
+
+Below are some code challenges in [Codewars](http://codewars.com/), a site built by developers at a hack-a-thon, that can be very useful in exposing you to varied exercises across different languages and techniques for solving them. It's a great resource for preparing you for the same kinds of questions you will be asked to solve during technical interviews. Codewars provides built-in testing, solutions, and rankings for developers looking to get reps in and "level up". It is a great resource for staying on top of your current skills and learning new ones as you grow as a developer.
+
+## Ranking system
+
+Codewars ranks the level of how hard each challenge ("kata") is by a scale of "kyu" that goes from 8 - 1 where 8 is the easiest. One of the nice features of Codewars is that you can see other solutions including solutions that the community rated as the best. Once you have submitted a working solution, you'll have the ability to look at other solutions to learn alternate ways of solving problems that you might not have thought about before. 
+
+## Your turn!
+
+![matrix gif](https://media.giphy.com/media/vEcyRJ5yysqk/giphy.gif)
+
 
 Create an account or login to your [codewars](https://www.codewars.com/) account. There will be one challenge you need to complete in order to make an account.
 
-Go through these links below and work through the coding challenges in Codewars. If you finish all challenges and bonus, work on more challenges 
+For the challenges below, follow the links and use the testing suite to validate your code. If you finish all the challenges and bonus, challenge yourself with harder ones by selecting rank up!
 
 - [Challenge 1](https://www.codewars.com/kata/register-for-the-party-sql-for-beginners-number-3) Register for the Party (SQL for Beginners #3) <8 kyu>
 
